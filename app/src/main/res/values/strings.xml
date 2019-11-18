@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mapbox</string>
+    <string name="API_key">AIzaSyBZwMHN95o72R5355U-vL7WyhbjlRT-NJ8</string>
+    <string name="directionsApiKey">AIzaSyBZwMHN95o72R5355U-vL7WyhbjlRT-NJ8</string>
+    <string name="access_token">pk.eyJ1IjoiZXJ5bGdvIiwiYSI6ImNrMHM5YjVhaTAwYTAzY3Byb2xnb2QzNWsifQ.egNisBArBccooR5MJ-Myww</string>
+    <string name="fragment_map__search">Search...</string>
+
+</resources>
